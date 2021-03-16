@@ -4,7 +4,7 @@ import React from 'react'
 import printerIcon from 'assets/images/printer.png'
 import searchIcon from 'assets/images/search.png'
 import certificateIcon from 'assets/images/download.jpg'
-import './Certificate.css'
+import './Certificate.scss'
 
 const Certificate = () => {
   return (

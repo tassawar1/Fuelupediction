@@ -10,7 +10,6 @@ import profileIcon from 'assets/images/avatar.png'
 import { Link, NavLink } from 'react-router-dom'
 import buildClassName from '../../../../utils/buildClassName'
 import styles from './NavBar.module.scss'
-import Course from '../../../Course/Course'
 
 const NavBar = ({ isAuth }) => {
   return (

@@ -1,7 +1,8 @@
+/* eslint-disable import/no-unresolved */
 /* eslint-disable prettier/prettier */
 import React, { useState } from 'react'
 import Certificate from './Certificate'
-import './TabNav.css'
+import './TabNav.scss'
 
 function TabNav() {
   const [toggleState, setToggleState] = useState(1)

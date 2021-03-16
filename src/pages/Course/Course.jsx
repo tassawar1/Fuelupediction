@@ -1,6 +1,7 @@
+/* eslint-disable import/no-cycle */
 import React from 'react'
 
-import NavBar from './components/NavBar/NavBar'
+import NavBar from '../Landing/components/NavBar/NavBar'
 import Footer from './components/Footer/Footer'
 
 import styles from './Course.module.scss'
